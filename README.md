@@ -1,6 +1,6 @@
 # Nemenyi
 
-Library to perform Friedman statistical test and Nemenyi post-hoc analysis
+Library to perform the Friedman statistical test and Nemenyi post-hoc analysis
 
 # How to install
 
